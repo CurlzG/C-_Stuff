@@ -1,0 +1,16 @@
+﻿body {
+    background-color: #e1e4ea;
+}
+#PiNum {
+background-color: white;
+}
+#Box {
+    background-color: #e5e6e8;
+}
+h1 {
+    font-style: italic;
+    font-size: 60px;
+}
+p {
+    font-size: 20px;
+}
